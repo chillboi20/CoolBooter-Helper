@@ -1,11 +1,11 @@
 # CoolBooter-Helper
 A TUI bash script for managing partitions on iOS and streamlining the process of using CoolBooter CLI.
 
-### Dependencies
+### Recommened Dependencies
 
 - OpenSSH or terminal emulator, eg. WhiteTerminal or MobileTerminal (all found in BigBoss repo)
-- CoolBooter CLI (http://coolbooter.com)
-- dualbootstuff (http://angeltheidiot.github.io/archive-repo)
+- CoolBooter CLI (http://coolbooter.com), optional if you're running the script on the dualbooted partition
+- dualbootstuff (http://angeltheidiot.github.io/archive-repo) optional if you don't plan to resize partitions
 - Core Utilities (from BigBoss repo)
 
 ### Features
