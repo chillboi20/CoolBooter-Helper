@@ -13,6 +13,7 @@ A TUI bash script for managing partitions on iOS and streamlining the process of
 - Streamlined experience for using CoolBooter CLI, such as booting and uninstalling
 - Option to reboot device
 - Resizing /private/var
+- Force uninstall option for clearing broken partitions
 
 ### Usage
 
