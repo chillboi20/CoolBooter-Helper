@@ -17,6 +17,6 @@ A TUI bash script for managing partitions on iOS and streamlining the process of
 
 ### Usage
 
-1. Install from http://angeltheidiot.github.io/archive-repo, and ensure you have the dependedcies installed
-2. Open your terminal app (or connect via SSH) and run `cbh`. You may be prompted to enter your device's root password
-3. You can now interact with the TUI interface by typing the number of the option you want
+1. Install from http://angeltheidiot.github.io/\repo, and ensure you have the dependedcies installed.
+2. Open your terminal app (or connect via SSH) and run `cbh`. You may be prompted to enter your device's root password.
+3. You can now interact with the TUI interface by typing the number of the option you want.
