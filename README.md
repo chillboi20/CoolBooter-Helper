@@ -5,8 +5,7 @@ A TUI bash script for managing partitions on iOS and streamlining the process of
 
 - OpenSSH or terminal emulator, eg. WhiteTerminal or MobileTerminal (all found in BigBoss repo)
 - CoolBooter CLI (http://coolbooter.com), optional if you're running the script on the dualbooted partition
-- dualbootstuff (http://angeltheidiot.github.io/archive-repo) optional if you don't plan to resize partitions
-- Core Utilities (from BigBoss repo)
+- dualbootstuff (http:/repo.legacyios.com) optional if you don't plan to resize partitions
 
 ### Features
 
@@ -17,6 +16,6 @@ A TUI bash script for managing partitions on iOS and streamlining the process of
 
 ### Usage
 
-1. Install from http://angeltheidiot.github.io/\repo, and ensure you have the dependedcies installed.
+1. Install from http:/repo.legacyios.com, and ensure you have the dependedcies installed.
 2. Open your terminal app (or connect via SSH) and run `cbh`. You may be prompted to enter your device's root password.
 3. You can now interact with the TUI interface by typing the number of the option you want.
